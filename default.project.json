@@ -1,0 +1,17 @@
+{
+  "name": "Forsaken-Brainrot",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$path": "ReplicatedStorage/ReplicatedStorage"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "StarterPlayer/StarterPlayerScripts/StarterPlayerScripts"
+      }
+    },
+    "ServerScriptService": {
+      "$path": "ServerScriptService/ServerScriptService"
+    }
+  }
+}
